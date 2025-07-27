@@ -23,21 +23,21 @@ The analysis includes clear Python code, plots for every key question, and actio
 ### 1. Which year has the most filmed movies?
 
 A distribution histogram reveals a huge rise in films released in recent years, peaking after 2000.
-![Release Date Distribution](images/most-filmed.png)
+![Release Date Distribution](images/mostfilmed.png)
 
 ---
 
 ### 2. How is the "Vote_Average" column distributed?
 
 A count plot groups movies by voting categories like "not_popular", "below_average", "average", and "popular".
-![Vote Average Column](images/vote-avg-column.png)
+![Vote Average Column](images/voteavg.png)
 
 ---
 
 ### 3. What is the distribution of movie genres?
 
 Genres such as Drama, Comedy, and Action are the most common, as shown in the bar plot.
-![Genre Distribution](images/genre-column.png)
+![Genre Distribution](images/genrecolumn.png)
 
 ---
 
